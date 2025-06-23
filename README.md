@@ -2,7 +2,7 @@
 
 This project is a CAD and design exercise to develop my mechanical modeling skills and learn the internal architecture of a hollow shaft actuator. I reverse engineered it from a cross-section of a harmonic drive I was given for an interview. 
 <p></p>
-The PowerPoint **Harmonic Drive Actuator Project.pptx** dives into design, assembly, material information, and further elaborates on all design features.
+The PowerPoint `Harmonic Drive Actuator Project.pptx` dives into design, assembly, material information, and further elaborates on all design features.
 
 <p></p>
 
