@@ -5,6 +5,8 @@ This project is a CAD and design exercise to develop my mechanical modeling skil
 The PowerPoint **Harmonic Drive Actuator Project.pptx** dives into design, assembly, material information, and further elaborates on all design features.
 <p></p>
 This project was done in March 2024.
+<p></p>
+
 ![Figure 1](isometric.png)  
 *Figure 1: Isometric View of the final product.*
 
