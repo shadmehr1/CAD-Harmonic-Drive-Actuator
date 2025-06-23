@@ -43,8 +43,9 @@ I sourced these COTS parts to fill in the rest of the design based on my assumpt
 
 ---
 
-## Parts I Modeled in Creo Parametric
+## Parts Modeled in Creo Parametric
 
+The remaining parts, I modelled myself from a given cross section view. More information on each available in the powerpoint.
 - Housing  
 - Housing Upper 2  
 - Housing Bottom  
